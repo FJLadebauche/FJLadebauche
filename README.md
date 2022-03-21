@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FJLadebauche
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Frederick Jacob Ladebauche
+- 👀 I’m interested in accessibility technologies
+- 🌱 I’m currently learning stock analysis with python
+- 💞️ I’m looking to collaborate on accessibility technologies
+- 📫 How to reach me FJLadebauche@gmail.com
 
 <!---
 FJLadebauche/FJLadebauche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
